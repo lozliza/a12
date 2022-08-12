@@ -1,0 +1,3 @@
+AUG 12 . This line is writen by logu. not working!!!
+AUG 12 . This  second line is created by logu.
+AUG 12 . 3rd line
